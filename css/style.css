@@ -55,6 +55,11 @@ a:focus, a:hover {
 	outline: none;
 }
 /*-- //Reset-Code --*/
+#li_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /*-- banner --*/
 .w3-banner-top{
     background: url(../images/nyc.jpg) no-repeat 0px 0px;
